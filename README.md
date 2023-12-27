@@ -1,6 +1,9 @@
 # DÒNG HỌ LÊ #
 ## Một dòng họ lưu giữ 23 cuốn sắc phong cổ quý hiếm ##
-- [Trang nguồn](https://nld.com.vn/thoi-su-trong-nuoc/mot-dong-ho-luu-giu-23-cuon-sac-phong-co-quy-hiem-20160119215425078.htm?fbclid=IwAR2DRUCP7VxPztyIYJ79wLufPqmCgo2qVMtRTTyC1HhCwOHXzJ8VM4RHRZI)
+  - [Trang nguồn](https://nld.com.vn/thoi-su-trong-nuoc/mot-dong-ho-luu-giu-23-cuon-sac-phong-co-quy-hiem-20160119215425078.htm?fbclid=IwAR2DRUCP7VxPztyIYJ79wLufPqmCgo2qVMtRTTyC1HhCwOHXzJ8VM4RHRZI)
+
+https://github.com/BsNgChiThanh/Dong-ho-Le/assets/82578024/f8cf7afe-c1b1-45f7-895a-c42ca93f2fc8
+
 - (NLĐO)- 23 cuốn sắc phong cổ quý hiếm có niên đại hàng trăm năm đang được một dòng họ Lê ở huyện Nông Cống (Thanh Hóa) lưu giữ cẩn thận.
 - Một trong số 23 cuốn sắc phong cổ đang còn nguyên vẹn được ông Lê Văn Phương - hậu duệ 21 đời của Lê Hiểm lưu giữ cẩn thận:
 - ![image](https://github.com/BsNgChiThanh/Dong-ho-Le/assets/82578024/17394475-a48c-4ca4-bae2-c33444534191)
